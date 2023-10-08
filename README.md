@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recep Efe Aksoy</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">I love Coding </h3>
 
 - 📫 How to reach me **efe.aks@hotmail.com**
 
